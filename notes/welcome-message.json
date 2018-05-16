@@ -1,1 +1,1 @@
-{"title":"Scope and Closer","message":"Parameters are local scoped variables\n","id":"welcome-message","date":"2018-05-15T22:32:17.996Z","updated":"2018-05-16T22:23:53.556Z"}
+{"title":"Scope and Closer","message":"Parameters are local scoped variables\n// var is function scoped\n// let and const are block scoped\nIIFE - immediately invoked function expression\n*starts with and ends with parenthesis*","id":"welcome-message","date":"2018-05-15T22:32:17.996Z","updated":"2018-05-16T23:55:45.039Z"}
